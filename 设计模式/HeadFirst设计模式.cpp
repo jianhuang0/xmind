@@ -1,6 +1,3 @@
-
-
-
 class duck {
 	behavior flyBehavior
 	behavior quackBehavior
