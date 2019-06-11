@@ -1,4 +1,4 @@
-# 看书思维导图
+# 思维导图
 
 使用[MindMaster](https://www.edrawsoft.cn/mindmaster/)工具制作思维导图，整理看过书中的知识结构，方便梳理和查询。
 
