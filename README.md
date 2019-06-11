@@ -1,6 +1,6 @@
 # 看书思维导图
 
-使用mindmaster工具制作思维导图，整理看过书中的知识结构，方便梳理和查询。
+使用[MindMaster](https://www.edrawsoft.cn/mindmaster/)工具制作思维导图，整理看过书中的知识结构，方便梳理和查询。
 
 
 
@@ -10,7 +10,7 @@
 
 <<Docker 技术入门于实践>>
 
-![Docker 技术入门与实践](images/Docker 技术入门与实践.jpg)
+![Docker 技术入门与实践](images/Docker技术入门与实践.jpg)
 
 
 
